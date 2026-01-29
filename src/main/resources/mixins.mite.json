@@ -1,0 +1,26 @@
+{
+  "required": true,
+  "package": "com.FiF.MITE.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mixins.mite.refmap.json",
+  "mixins": [
+    "ZombieMixin",
+    "BedBlockMixin",
+    "PortalShapeMixin",
+    "MonsterRoomFeatureMixin",
+    "GeodeFeatureMixin",
+    "PlayerMixin",
+    "AnvilMenuMixin",
+    "AnvilScreenMixin",
+    "CampfireBlockMixin",
+    "MixinItem",
+    "FoodDataMixin",
+    "VillagerMixin",
+    "MixinGameRenderer"
+  ],
+  "client": [
+  ],
+  "server": [
+  ],
+  "minVersion": "0.8"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " a ",
+    " a ",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:planks"
+    },
+    "b": {
+      "item": "stick"
+    }
+  },
+  "result": {
+    "item": "mite:strong_stick",
+    "count": 1
+  }
+}

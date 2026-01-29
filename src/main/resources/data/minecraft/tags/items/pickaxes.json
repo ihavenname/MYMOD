@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "mite:copper_pickaxe",
+    "mite:mod_iron_pickaxe",
+    "mite:steel_pickaxe"
+  ]
+}

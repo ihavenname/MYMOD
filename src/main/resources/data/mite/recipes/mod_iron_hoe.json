@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " aa",
+    " b ",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "stick"
+    }
+  },
+  "result": {
+    "item": "mite:mod_iron_hoe",
+    "count": 1
+  }
+}

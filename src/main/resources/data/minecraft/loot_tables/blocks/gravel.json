@@ -1,0 +1,40 @@
+{
+  "type": "block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:gravel",
+          "weight": 648
+        },
+        {
+          "type": "item",
+          "name": "mite:tiny_fire_rock",
+          "weight": 135
+        },
+        {
+          "type": "item",
+          "name": "mite:tiny_copper",
+          "weight": 48
+        },
+        {
+          "type": "item",
+          "name": "minecraft:flint",
+          "weight": 9
+        },
+        {
+          "type": "item",
+          "name": "minecraft:gold_nugget",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "minecraft:gravel",
+          "weight": 19
+        }
+      ]
+    }
+  ]
+}

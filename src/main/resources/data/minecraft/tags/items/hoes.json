@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "mite:copper_hoe",
+    "mite:mod_iron_hoe",
+    "mite:steel_hoe"
+  ]
+}

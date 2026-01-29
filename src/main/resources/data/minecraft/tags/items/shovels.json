@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "mite:copper_shovel",
+    "mite:mod_iron_shovel",
+    "mite:steel_shovel"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ab",
+    "ac"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stick"
+    },
+    "b": {
+      "item": "minecraft:obsidian"
+    },
+    "c": {
+      "item": "mite:animal_skin_string"
+    }
+  },
+  "result": {
+    "item": "mite:tiny_black_glass_axe",
+    "count": 1
+  }
+}

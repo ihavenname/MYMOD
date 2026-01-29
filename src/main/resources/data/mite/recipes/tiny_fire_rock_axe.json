@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ab",
+    "ac"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stick"
+    },
+    "b": {
+      "item": "minecraft:flint"
+    },
+    "c": {
+      "item": "mite:animal_skin_string"
+    }
+  },
+  "result": {
+    "item": "mite:tiny_fire_rock_axe",
+    "count": 1
+  }
+}

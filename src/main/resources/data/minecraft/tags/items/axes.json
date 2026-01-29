@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "mite:tiny_fire_rock_axe",
+    "mite:fire_rock_axe",
+    "mite:tiny_black_glass_axe",
+    "mite:black_glass_axe",
+    "mite:copper_axe",
+    "mite:mod_iron_axe",
+    "mite:steel_axe"
+  ]
+}

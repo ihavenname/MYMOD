@@ -1,0 +1,59 @@
+{
+  "key.mite.auto_mining": "Continue Left Click",
+  "key.categories.mite": "MITE Mod",
+  "item.mite.tiny_copper":"Tiny Copper",
+  "item.mite.tiny_fire_rock":"Tiny FireRock",
+  "item.mite.tiny_black_glass":"Tiny BlackGlass",
+  "item.mite.animal_skin_string":"AnimalSkin String",
+
+  "item.mite.fire_rock_knife":"FireRock Knife",
+  "item.mite.black_glass_knife":"BlackGlass Knife",
+
+  "item.mite.tiny_fire_rock_axe":"Tiny FireRock Axe",
+  "item.mite.tiny_black_glass_axe":"Tiny BlackGlass Axe",
+
+
+  "item.mite.fire_rock_axe":"FireRock Axe",
+  "item.mite.black_glass_axe":"BlackGlass Axe",
+
+  "item.mite.copper_pickaxe":"Copper Pickaxe",
+  "item.mite.strong_stick":"Strong Stick",
+  "item.mite.copper_sword":"Copper Sword",
+  "item.mite.copper_shovel":"Copper Shovel",
+  "item.mite.copper_hoe":"Copper Hoe",
+  "item.mite.copper_axe":"Copper Axe",
+  "item.mite.copper_cut":"Copper Cut",
+  "item.mite.copper_helmet":"Copper Helmet",
+  "item.mite.copper_chestplate":"Copper Chestplate",
+  "item.mite.copper_leggings":"Copper Leggings",
+  "item.mite.copper_boots":"Copper Boots",
+
+  "item.mite.mod_iron_helmet":"Iron Helmet",
+  "item.mite.mod_iron_chestplate":"Iron Chestplate",
+  "item.mite.mod_iron_leggings":"Iron Leggings",
+  "item.mite.mod_iron_boots":"Iron Boots",
+  "item.mite.mod_iron_pickaxe":"Iron Pickaxe",
+  "item.mite.mod_iron_sword":"Iron Sword",
+  "item.mite.mod_iron_shovel":"Iron Shovel",
+  "item.mite.mod_iron_hoe":"Iron Hoe",
+  "item.mite.mod_iron_axe":"Iron Axe",
+  "item.mite.mod_iron_cut":"Iron Cut",
+
+  "item.mite.steel_ingot":"Steel Ingot",
+  "item.mite.tiny_steel":"Tiny Steel",
+  "item.mite.fire_steel_ingot":"Fire Steel Ingot",
+
+  "item.mite.steel_helmet":"Steel Helmet",
+  "item.mite.steel_chestplate":"Steel Chestplate",
+  "item.mite.steel_leggings":"Steel Leggings",
+  "item.mite.steel_boots":"Steel Boots",
+  "item.mite.steel_pickaxe":"Steel Pickaxe",
+  "item.mite.steel_sword":"Steel Sword",
+  "item.mite.steel_shovel":"Steel Shovel",
+  "item.mite.steel_hoe":"Steel Hoe",
+  "item.mite.steel_axe":"Steel Axe",
+  "item.mite.steel_cut":"Steel Cut",
+
+  "itemGroup.mite_tab":"MITE",
+  "key.mite.speed_toggle":"MITE Sprint"
+}
